@@ -1,0 +1,3 @@
+[submodule "infinispan-spring-boot"]
+	path = infinispan-spring-boot
+	url = git@github.com:infinispan/infinispan-spring-boot.git
